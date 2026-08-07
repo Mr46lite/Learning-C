@@ -19,8 +19,9 @@ int main()
     char operator;
 
     printf("Hello User\n");
-    printf("Do you want to continue with \"Normal calculator\" or \"Easy calculator\"?\nNote:This is case sensitive so make sure you entered exactly what you want as it is including caps");
-
+    printf("Do you want to continue with \"Normal calculator\" or \"Easy calculator\"?\nNote:This is case sensitive so make sure you entered exactly what you want as it is including caps\n");
+    printf("\n");
+    printf("Enter either \"Normal calculator\" or \"Easy calculator\": ");
     fgets(caltype, sizeof(caltype), stdin);
 
     // Remove newline character type
