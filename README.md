@@ -2,4 +2,4 @@
 This is my personal place to learn, practice and execute language C.
 
 
-Till date number of Hackerrank problems solved : 6
+Till date number of considerable Hackerrank problems solved : 7
